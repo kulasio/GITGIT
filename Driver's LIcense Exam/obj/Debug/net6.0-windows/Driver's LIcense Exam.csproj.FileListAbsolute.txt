@@ -1,0 +1,16 @@
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\bin\Debug\net6.0-windows\Driver's LIcense Exam.exe
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\bin\Debug\net6.0-windows\Driver's LIcense Exam.deps.json
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\bin\Debug\net6.0-windows\Driver's LIcense Exam.runtimeconfig.json
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\bin\Debug\net6.0-windows\Driver's LIcense Exam.dll
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\bin\Debug\net6.0-windows\Driver's LIcense Exam.pdb
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver_s_LIcense_Exam.Form1.resources
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.csproj.GenerateResource.cache
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.AssemblyInfoInputs.cache
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.AssemblyInfo.cs
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.csproj.CoreCompileInputs.cache
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.dll
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\refint\Driver's LIcense Exam.dll
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.pdb
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\Driver's LIcense Exam.genruntimeconfig.cache
+C:\Users\mission\Desktop\CSS Things\Driver's LIcense Exam\obj\Debug\net6.0-windows\ref\Driver's LIcense Exam.dll
