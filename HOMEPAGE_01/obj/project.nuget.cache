@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFl4fRJFFxpzQq7WL9XhaH/M4V8n1ReCuV4wDYSEkMHLQM/0Tn1UYdV4h3z1Qd+IVEtwCLKiCbUA1h1LGmdttw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mission\\Desktop\\BT TRADING APP\\HOMEPAGE_01\\HOMEPAGE_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mission\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
