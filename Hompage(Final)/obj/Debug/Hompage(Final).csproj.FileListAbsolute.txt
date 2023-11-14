@@ -1,0 +1,11 @@
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\bin\Debug\Hompage(Final).exe.config
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\bin\Debug\Hompage(Final).exe
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\bin\Debug\Hompage(Final).pdb
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage(Final).csproj.AssemblyReference.cache
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage_Final_.Form1.resources
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage_Final_.Properties.Resources.resources
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage(Final).csproj.GenerateResource.cache
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage(Final).csproj.CoreCompileInputs.cache
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage(Final).exe
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage(Final).pdb
+C:\Users\mission\Desktop\BT TRADING APP\Hompage(Final)\obj\Debug\Hompage_Final_.DashboardForm.resources
