@@ -1,0 +1,37 @@
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\sample connection.exe
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\sample connection.deps.json
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\sample connection.runtimeconfig.json
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\sample connection.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\sample connection.pdb
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\undes\source\repos\sample connection\sample connection\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.csproj.AssemblyReference.cache
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample_connection.Form1.resources
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.csproj.GenerateResource.cache
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.AssemblyInfoInputs.cache
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.AssemblyInfo.cs
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.csproj.CoreCompileInputs.cache
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.csproj.CopyComplete
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.dll
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\refint\sample connection.dll
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.pdb
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample connection.genruntimeconfig.cache
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\ref\sample connection.dll
+C:\Users\undes\source\repos\sample connection\sample connection\obj\Debug\net6.0-windows\sample_connection.Form2.resources
